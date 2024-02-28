@@ -1,0 +1,47 @@
+{
+    "dados": [
+      {
+        "id": 1,
+        "nome": "Grande Pirâmide de Gizé",
+        "descricao": "A Grande Pirâmide de Gizé é a mais antiga e a maior das três pirâmides de Gizé. Foi construída como túmulo para o faraó Quéops durante a Quarta Dinastia do Antigo Egito, por volta de 2560 a.C.",
+        "imagem": "piramide.jpeg",
+        "imagem2": "piramide2.jpeg"
+      },
+      {
+        "id": 2,
+        "nome": "Burj Khalifa",
+        "descricao": "O Burj Khalifa é o arranha-céu mais alto do mundo, localizado em Dubai, Emirados Árabes Unidos. Concluído em 2010, tem uma altura impressionante de 828 metros e é uma obra-prima arquitetônica e um marco icônico.",
+        "imagem": "burj.jpeg",
+        "imagem2": "burj2.jpeg"
+      },
+      {
+        "id": 3,
+        "nome": "Estátua da Liberdade",
+        "descricao": "A Estátua da Liberdade é um ícone dos Estados Unidos, localizado na Ilha da Liberdade, Nova Iorque. Foi presente da França aos Estados Unidos e simboliza a liberdade e a amizade entre os dois países.",
+        "imagem": "EstatuaDaLiberdade.jpeg",
+        "imagem2": "EstatuaDaLiberdade2.jpeg"
+      },
+      {
+        "id": 4,
+        "nome": "Grande Muralha da China",
+        "descricao": "A Grande Muralha da China é uma série de fortificações feitas de pedra, tijolos, terra compactada, madeira e outros materiais, geralmente construída ao longo das fronteiras norte da China para proteger os Estados e impérios chineses contra as invasões dos vários grupos nômades das estepes da Eurásia.",
+        "imagem": "muralha.jpeg",
+        "imagem2": "muralha2.jpeg"
+      },
+      {
+        "id": 5,
+        "nome": "Palácio de Mysore",
+        "descricao": "O Palácio de Mysore é um palácio histórico localizado em Mysuru, no estado de Karnataka, Índia. É conhecido por sua arquitetura incrível e é um dos destinos turísticos mais visitados na Índia.",
+        "imagem": "palacio.jpeg",
+        "imagem2": "palacio2.jpeg"
+      },
+      {
+        "id": 6,
+        "nome": "Estátua de Cristo Redentor",
+        "descricao": "A Estátua do Cristo Redentor está localizada no topo do morro do Corcovado, na cidade do Rio de Janeiro, Brasil. É um dos símbolos mais conhecidos do Brasil e uma das novas Sete Maravilhas do Mundo.",
+        "imagem": "Cristo.jpeg",
+        "imagem2": "cristo2.jpeg"
+      }
+    ]
+  }
+  
